@@ -7,8 +7,7 @@ Hi! My  ![Visitor Count](https://profile-counter.glitch.me/LiujiaHuan/count.svg)
 
 ---
 # About Me
-![LiujiaHuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiujiaHuan&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiujiaHuan&layout=compact)](https://github.com/LiujiaHuan/github-readme-stats)
+![LiujiaHuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiujiaHuan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiujiaHuan&layout=compact)](https://github.com/LiujiaHuan/github-readme-stats)
 
 
 - 🔭 目前就读于： XUPT西安邮电大学 大二 CS
