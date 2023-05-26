@@ -12,7 +12,9 @@
 
 ## 0x03 reference
 [Extension API | Visual Studio Code Extension API](https://code.visualstudio.com/api)
+
 [API Reference - OpenAI API](https://platform.openai.com/docs/api-reference)
 
 vscode插件名：[TellMeCode](https://marketplace.visualstudio.com/items?itemName=LiujiaHuan13.TellMeCode)
+
 Github：[GitHub - JiaHuann/TellMeCode\_vscodeExtension](https://github.com/JiaHuann/TellMeCode_vscodeExtension)
