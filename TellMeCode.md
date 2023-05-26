@@ -4,7 +4,7 @@
 ```ad-note
 这里以知名事件循环胶水层项目libuv为例：
 ```
-![image](https://github.com/JiaHuann/JiaHuann/tmc.gif)
+![image](https://github.com/JiaHuann/JiaHuann/blob/main/tmc.gif)
 ## 0x02 待做的内容
 - 1. stream传输  边输出边展现到页面
 - 2. 设置一个模型选择列表，可以手动选择模型。
