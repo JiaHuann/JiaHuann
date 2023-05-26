@@ -7,9 +7,9 @@
 ```
 ![image](https://github.com/JiaHuann/JiaHuann/blob/main/tmc.gif)
 ## 0x02 待做的内容
-- 1. stream传输  边输出边展现到页面
-- 2. 设置一个模型选择列表，可以手动选择模型。
-- 3. 设置焦点离开选中文字直接刷新掉hover面板
+1. stream传输  边输出边展现到页面,优化生成速度
+2. 设置一个模型选择列表，可以手动选择模型。
+3. 设置焦点离开选中文字直接刷新掉hover面板
 
 ## 0x03 reference
 [Extension API | Visual Studio Code Extension API](https://code.visualstudio.com/api)
