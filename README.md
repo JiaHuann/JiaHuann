@@ -18,3 +18,5 @@ Tags:
 Linux Kernel eBPF NodeJS C Javascript Typescript  
 GitLab CI/CL Docker Qemu RISC-V Shell FileSystem  
 CyberSecurity Automotive React Electron
+
+❤I love my friends and families, especially my grandpa and grandma.❤
