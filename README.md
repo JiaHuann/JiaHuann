@@ -5,14 +5,14 @@ Enjoy playing with Linux Kernel, eBPF, Computer Architecture,System Optimization
 Used to be intern of:
 - KylinSec
 - PLCT Lab  
-
+- Dji Automotive
 Used to do research on:
 - TEE
 - Persistent Memory FileSystem
 - eBPF  
 
 Now in:  
-Dji Automotive.  
+ByteDance
 
 Tags:  
 Linux Kernel eBPF NodeJS C Javascript Typescript  
