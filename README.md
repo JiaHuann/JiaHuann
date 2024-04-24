@@ -15,6 +15,11 @@ Used to do research on:
 Now in:  
 ByteDance
 
+Hobbies:
+Games:Apex Legends
+EDM Music. Phonk
+Anime: Sward Art Online.
+
 Tags:  
 Linux Kernel eBPF NodeJS C Javascript Typescript  
 GitLab CI/CL Docker Qemu RISC-V Shell FileSystem  
