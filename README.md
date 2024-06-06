@@ -6,6 +6,7 @@ Enjoy playing with Linux Kernel, eBPF, Computer Architecture,System Optimization
 - KylinSec
 - PLCT Lab  
 - Dji Automotive
+- ByteDance
 
 **Used to do research on:**
 - TEE
@@ -14,7 +15,7 @@ Enjoy playing with Linux Kernel, eBPF, Computer Architecture,System Optimization
 
 **Now in:** 
 
-ByteDance
+NOTHING
 
 **Hobbies:**
 - Games:Apex Legends
