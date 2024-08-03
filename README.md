@@ -11,16 +11,21 @@ Enjoy playing with Linux Kernel, eBPF, Computer Architecture,System Optimization
 **Used to do research on:**
 - TEE
 - Persistent Memory FileSystem
-- eBPF  
-
-**Now in:** 
-
-NOTHING
+- eBPF
 
 **Hobbies:**
 - Games:Apex Legends
 - EDM Music. Phonk
 - Anime: Sward Art Online.
+
+## My Adventure:
+- **CTO of StarLab (.mn)**
+
+- **ZTE Industry-Academic-Research Project Leader （college side）**
+
+
+
+---
 
 **Tags:**
 
